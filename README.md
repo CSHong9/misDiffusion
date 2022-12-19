@@ -10,5 +10,4 @@ List of files
 3. node_CLN.csv shows a “fake news publisher” website list summarized from prior literature and well-known fact-checking organizational sources (e.g., FactCheck.org, Media Bias/Fact Check). Note that this list includes mainstream media and only fake news publishers are analyzed
 4. site_metadata.csv shows the metadata for fake news publishers. For more descriptions about these variables, please refer to the data and method section in the paper
 
-For collecting Twitter data, please see twarc (https://twarc-project.readthedocs.io/en/latest/).
-The CoVaxxy data repository is available here: https://github.com/osome-iu/CoVaxxy
+The CoVaxxy data repository is available here: https://github.com/osome-iu/CoVaxxy. For collecting Twitter data, please see twarc (https://twarc-project.readthedocs.io/en/latest/).
