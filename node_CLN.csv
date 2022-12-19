@@ -1,0 +1,1290 @@
+﻿id,name,site,available,ideo_Pew,cred_Pew,fake_label_Grinberg
+1,ABC News,abcnews.go.com,1,0,1,
+2,CBS News,cbsnews.com,1,0,1,
+3,NBC News,nbcnews.com,1,0,1,
+4,NPR,npr.org,1,1,1,
+5,Washington Post,washingtonpost.com,1,1,1,
+6,New York Times,nytimes.com,1,1,1,
+7,Huffington Post,huffpost.com,1,1,-1,
+8,Breitbart,breitbart.com,1,-1,-1,
+9,The Blaze,theblaze.com,1,-1,1,
+10,Daily Kos,dailykos.com,1,1,-1,
+11,ThinkProgress.org,thinkprogress.org,1,1,0,
+12,The Guardian,theguardian.com,1,1,1,
+13,BBC,bbc.com,1,1,1,
+14,The New Yorker,newyorker.com,1,1,1,
+15,One America News Network,oann.com,,,,
+16,Fox News,foxnews.com,1,-1,0,
+17,MSNBC,msnbc.com,1,1,1,
+18,CNN,cnn.com,1,1,1,
+19,PBS,pbs.org,1,1,1,
+20,Wall Street Journal,wsj.com,1,0,1,
+21,USA Today,usatoday.com,1,0,1,
+22,Slate,slate.com,1,1,0,
+23,Politico,politico.com,1,1,1,
+24,Mother Jones,motherjones.com,1,1,0,
+25,Bloomberg,bloomberg.com,1,0,1,
+26,BuzzFeed,buzzfeed.com,1,1,-1,
+27,Al Jazeera America,aljazeera.com,1,1,-1,
+28,The Economist,economist.com,1,1,1,
+29,Time,time.com,1,1,1,
+30,Univision,univision.com,1,0,1,
+31,Vice,vice.com,1,1,-1,
+32,Daily Caller,dailycaller.com,1,-1,-1,
+33,Newsweek,newsweek.com,1,1,1,
+34,Business Insider,businessinsider.com,1,1,1,
+35,Vox,vox.com,1,1,-1,
+36,The Hill,thehill.com,1,1,1,
+37,Washington Examiner,washingtonexaminer.com,1,-1,-1,
+38,New York Post,nypost.com,1,0,-1,
+39,reuters,reuters.com,1,0,1,
+40,ap,apnews.com,1,0,1,
+41,market watch,marketwatch.com,1,0,1,
+43,the daily wire,dailywire.com,1,-1,0,
+44,CDC,cdc.gov,1,0,1,
+45,World Health Organization,who.int,1,0,1,
+46,Dailymail,dailymail.co.uk,1,-1,-1,
+47,Independent,independent.co.uk,1,1,0,
+48,100% Fed Up,100percentfedup.com,1,,,Red
+49,LouderwithCrowder,louderwithcrowder.com,1,,,Red
+50,Activist Post,activistpost.com,1,,,Red
+51,myfreshnews.com,myfreshnews.com,0,,,Red
+52,allenbwest.com ,allenbwest.com,0,,,Red
+53,Natural news,naturalnews.com,1,,,Red
+54,allenwestrepublic.com ,greatamericanrepublic.com,2,,,Red
+55,News Rescue,newsrescue.com,1,,,Red
+56,americannews.com ,americannews.com,0,,,Red
+57,Now the End Begins,nowtheendbegins.com,1,,,Red
+58,americantoday.news ,americantoday.news,0,,,Red
+59,nutra-lifestyle.com,nutra-lifestyle.com,0,,,Red
+60,Americas Freedom ﬁghters,americasfreedomﬁghters.com,1,,,Red
+61,The Observatorial,observatorial.com,1,,,Red
+62,anonews.co ,anonews.co,0,,,Red
+63,powderedwigsociety.com,powderedwigsociety.com,0,,,Red
+64,ANONHQ.com,anonhq.com,1,,,Red
+65,proudcons.com,proudcons.com,0,,,Red
+66,Bare Naked Islam,barenakedislam.com,1,,,Red
+67,religiousmind.com,religiousmind.com,0,,,Red
+68,Bipartisan Report,bipartisanreport.com,1,,,Red
+69,Right Side News,rightsidenews.com,1,,,Red
+70,Channel-7-news.com ,channel-7-news.com,0,,,Red
+71,shariaunveiled.wordpress.com,shariaunveiled.wordpress.com,0,,,Red
+72,Collective Evolution,collective-evolution.com,1,,,Red
+73,Source Planet,sourceplanet.net,1,,,Red
+74,conservativebyte.com ,conservativebyte.com,0,,,Red
+75,State of the Nation,stateofthenation.co,2,,,Red
+76,conservativeﬁringline.com ,conservativeﬁringline.com,1,,,Red
+77,superstation95.com,superstation95.com,1,,,Red
+78,conservativeoutﬁtters.com ,conservativeoutﬁtters.com,0,,,Red
+79,Tactical Investor,tacticalinvestor.com,1,,,Red
+80,Conservative Post,conservativepost.com,1,,,Red
+81,The Event Chronicle,theeventchronicle.com,1,,,Red
+82,dailystormer.com ,dailystormer.com,0,,,Red
+83,The free Patriot,thefreepatriot.org,1,,,Red
+84,DC Clothesline,dcclothesline.com,1,,,Red
+85,The Gate Way Pundit,thegatewaypundit.com,1,,,Red
+86,downtrend.com ,downtrend.com,0,,,Red
+87,The Last American Vagabond,thelastamericanvagabond.com,1,,,Red
+88,eaglerising.com ,eaglerising.com,0,,,Red
+89,thenewsclub.info,thenewsclub.info,0,,,Red
+90,End Time Headlines,endtimeheadlines.org,1,,,Red
+91,therealstrategy.com,therealstrategy.com,0,,,Red
+92,European Union Times,eutimes.net,1,,,Red
+93,Tru News,trunews.com,1,,,Red
+94,fellowshipoftheminds.com ,fellowshipoftheminds.com,0,,,Red
+95,truthfeed.com,truthfeed.com,0,,,Red
+96,Front Page Mag,frontpagemag.com,1,,,Red
+97,Truth Uncensored,truthuncensored.net,1,,,Red
+98,fury.news ,fury.news,0,,,Red
+99,USA Supreme,usasupreme.com,1,,,Red
+100,Get off the BS,getoffthebs.com,1,,,Red
+101,viralliberty.com,viralliberty.com,0,,,Red
+102,gopthedailydose.com ,gopthedailydose.com,0,,,Red
+103,We are Change,wearechange.org,1,,,Red
+104,gotnews.com ,gotnews.com,0,,,Red
+105,westernsentinel.com,westernsentinel.com,0,,,Red
+106,Info wars ,infowars.com,1,,,Red
+107,whatdoesitmean.com,whatdoesitmean.com,0,,,Red
+108,jookos.com ,jookos.com,0,,,Red
+109,WND,wnd.com,1,,,Red
+110,Judicial Watch,judicialwatch.org,1,,,Red
+111,World Truth,worldtruth.tv,1,,,Red
+112,2ndvote.com ,2ndvote.com,0,,,Orange
+113,Medical kidnap,medicalkidnap.com,1,,,Orange
+114,afa.net ,afa.net,0,,,Orange
+115,Mentor 2day,mentor2day.com,1,,,Orange
+116,ahtribune.com ,ahtribune.com,0,,,Orange
+117,nativeamericans.us,nativeamericans.us,0,,,Orange
+118,Awareness Act,awarenessact.com,1,,,Orange
+119,newcenturytimes.com,newcenturytimes.com,0,,,Orange
+120,blackinsurancenews.com ,blackinsurancenews.com,0,,,Orange
+121,Only Simchas,onlysimchas.com,1,,,Orange
+122,Canna SOS,cannasos.com,1,,,Orange
+123,Palmer Report,palmerreport.com,1,,,Orange
+124,Chicks on the Right,chicksontheright.com,1,,,Orange
+125,Geller Report,pamelageller.com,1,,,Orange
+126,COED,coed.com,1,,,Orange
+127,qpolitical.com,qpolitical.com,0,,,Orange
+128,Concealed Nation,concealednation.org,1,,,Orange
+129,redﬂagnews.com,redﬂagnews.com,0,,,Orange
+130,Western Journal,conservativetribune.com,2,,,Orange
+131,Regated,regated.com,1,,,Orange
+132,Crooks and Liars,crooksandliars.com,1,,,Orange
+133,Right wing News,rightwingnews.com,1,,,Orange
+134,Daily Caller,dailycaller.com,1,,,Orange
+135,Smag,smag31.com,1,,,Orange
+136,Daily Headlines,dailyheadlines.net,1,,,Orange
+137,Tea Party ,teaparty.org,1,,,Orange
+138,Dailynew Sbin,dailynewsbin.com,0,,,Orange
+139,Thatvira Lfeed,thatviralfeed.net,0,,,Orange
+140,Daily Post,dailypost.ng,1,,,Orange
+141,The Big Riddle,thebigriddle.com,1,,,Orange
+142,Daily Wire,dailywire.com,1,,,Orange
+143,The Last Refuge,theconservativetreehouse.com,1,,,Orange
+144,David Wolfe,davidwolfe.com,1,,,Orange
+145,The Federalist Papers,thefederalistpapers.org,1,,,Orange
+146,defund.com ,defund.com,0,,,Orange
+147,The horn news,thehornnews.com,1,,,Orange
+148,DML,dennismichaellynch.com,1,,,Orange
+149,The mind unleashed,themindunleashed.com,1,,,Orange
+150,End of the American dream,endoftheamericandream.com,1,,,Orange
+151,TNM news,thenationalmarijuananews.com,1,,,Orange
+152,Express,express.co.uk,1,,,Orange
+153,The national patriot,thenationalpatriot.com,1,,,Orange
+154,First Post ,ﬁrstpost.com,1,,,Orange
+155,The political Insider,thepoliticalinsider.com,1,,,Orange
+156,Health nut news,healthnutnews.com,1,,,Orange
+157,Tell me now,facebook.com/tellmenownews,2,,,Orange
+158,healthycareandbeauty.com ,healthycareandbeauty.com,0,,,Orange
+159,toprightnews.com,toprightnews.com,0,,,Orange
+160,heatst.com tribunist.com,heatst.comtribunist.com,0,,,Orange
+161,ihavethetruth.com ,ihavethetruth.com,0,,,Orange
+162,True activist,trueactivist.com,1,,,Orange
+163,ilovenativeamericans.us ,ilovenativeamericans.us,0,,,Orange
+164,urbanimagemagazine.com,urbanimagemagazine.com,0,,,Orange
+165,Multi Mag,impulsetoday.com,1,,,Orange
+166,US Chronicle,uschronicle.com,1,,,Orange
+167,Inquisitr,inquisitr.com,1,,,Orange
+168,Usuncut,usuncut.com,1,,,Orange
+169,IOTW,iotwreport.com,1,,,Orange
+170,welovenative.com,welovenative.com,0,,,Orange
+171,jewsnews.co.il ,jewsnews.co.il,0,,,Orange
+172,youngcons.com,youngcons.com,0,,,Orange
+173,Soon trending,joeforamerica.com,1,,,Orange
+174,Zero hedge,zerohedge.com,1,,,Orange
+175,learnprogress.org,learnprogress.org,0,,,Orange
+176,12minutos.com,12minutos.com,,,,Black
+177,16wmpo.com,16wmpo.com,,,,Black
+178,20minutenews.com,20minutenews.com,,,,Black
+179,247newsmedia.com,247newsmedia.com,,,,Black
+180,24aktuelles.com,24aktuelles.com,,,,Black
+181,24online.news,24online.news,,,,Black
+182,24usainfo.com,24usainfo.com,,,,Black
+183,24wpn.com,24wpn.com,,,,Black
+184,abcnews.com.co,abcnews.com.co,,,,Black
+185,actualite.co,actualite.co,,,,Black
+186,actualites.co,actualites.co,,,,Black
+187,adobochronicles.com,adobochronicles.com,,,,Black
+188,alabamaobserver.com,alabamaobserver.com,,,,Black
+189,aldipest.com,aldipest.com,,,,Black
+190,alertchild.com,alertchild.com,,,,Black
+191,alynews.com,alynews.com,,,,Black
+192,americafans.com,americafans.com,,,,Black
+193,americanflare.com,americanflare.com,,,,Black
+194,americanflavor.news,americanflavor.news,,,,Black
+195,americanjournalreview.com,americanjournalreview.com,,,,Black
+196,americanpeoplenetwork.com,americanpeoplenetwork.com,,,,Black
+197,americanpoliticnews.co,americanpoliticnews.co,,,,Black
+198,americanpresident.co,americanpresident.co,,,,Black
+199,americanprides.com,americanprides.com,,,,Black
+200,americasnewest.com,americasnewest.com,,,,Black
+201,amposts.com,amposts.com,,,,Black
+202,anews-24.com,anews-24.com,,,,Black
+203,anews24.org,anews24.org,,,,Black
+204,angrypatriotmovement.com,angrypatriotmovement.com,,,,Black
+205,anonjekloy.tk,anonjekloy.tk,,,,Black
+206,areyouasleep.com,areyouasleep.com,,,,Black
+207,asamericanasapplepie.org,asamericanasapplepie.org,,,,Black
+208,associatedmediacoverage.com,associatedmediacoverage.com,,,,Black
+209,aurora-news.us,aurora-news.us,,,,Black
+210,badcriminals.com,badcriminals.com,,,,Black
+211,baldwinpost.com,baldwinpost.com,,,,Black
+212,baltimoregazette.com,baltimoregazette.com,,,,Black
+213,battypost.com,battypost.com,,,,Black
+214,bb4sp.com,bb4sp.com,,,,Black
+215,beforeitsnews.com,beforeitsnews.com,,,,Black
+216,belgique.actualites.co,belgique.actualites.co,,,,Black
+217,bients.com,bients.com,,,,Black
+218,bigbluevision.org,bigbluevision.org,,,,Black
+219,bignuggetnews.com,bignuggetnews.com,,,,Black
+220,bizstandardnews.com,bizstandardnews.com,,,,Black
+221,bluevision.news,bluevision.news,,,,Black
+222,bluevisionpost.com,bluevisionpost.com,,,,Black
+223,borderherald.com,borderherald.com,,,,Black
+224,bostonleader.com,bostonleader.com,,,,Black
+225,breakingtop.world,breakingtop.world,,,,Black
+226,burrardstreetjournal.com,burrardstreetjournal.com,,,,Black
+227,butthatsnoneofmybusiness.com,butthatsnoneofmybusiness.com,,,,Black
+228,buzzfeedusa.com,buzzfeedusa.com,,,,Black
+229,cartelpress.com,cartelpress.com,,,,Black
+230,cartelreport.com,cartelreport.com,,,,Black
+231,celebtricity.com,celebtricity.com,,,,Black
+232,channel16news.com,channel16news.com,,,,Black
+233,channel17news.com,channel17news.com,,,,Black
+234,channel18news.com,channel18news.com,,,,Black
+235,channel22news.com,channel22news.com,,,,Black
+236,channel23news.com,channel23news.com,,,,Black
+237,channel28news.com,channel28news.com,,,,Black
+238,channel34news.com,channel34news.com,,,,Black
+239,channel45news.com,channel45news.com,,,,Black
+240,channel5000.com,channel5000.com,,,,Black
+241,choiceandtruth.com,choiceandtruth.com,,,,Black
+242,christiantimesnewspaper.com,christiantimesnewspaper.com,,,,Black
+243,christiantoday.info,christiantoday.info,,,,Black
+244,chuckcallesto.blogspot.com,chuckcallesto.blogspot.com,,,,Black
+245,civictribune.com,civictribune.com,,,,Black
+246,clancyreport.com,clancyreport.com,,,,Black
+247,clashdaily.com,clashdaily.com,,,,Black
+248,clear-politics.com,clear-politics.com,,,,Black
+249,cnn.com.de,cnn.com.de,,,,Black
+250,cnnews3.com,cnnews3.com,,,,Black
+251,consciouslyenlightened.com,consciouslyenlightened.com,,,,Black
+252,conservativearmy88.com,conservativearmy88.com,,,,Black
+253,conservativedailypost.com,conservativedailypost.com,,,,Black
+254,conservativeflashnews.com,conservativeflashnews.com,,,,Black
+255,conservativeinfocorner.com,conservativeinfocorner.com,,,,Black
+256,conservativeinsider.co,conservativeinsider.co,,,,Black
+257,conservativespirit.com,conservativespirit.com,,,,Black
+258,conservativestudio.com,conservativestudio.com,,,,Black
+259,consnation.com,consnation.com,,,,Black
+260,cooltobeconservative.com,cooltobeconservative.com,,,,Black
+261,daily-sun.com,daily-sun.com,,,,Black
+262,dailycurrant.com,dailycurrant.com,,,,Black
+263,dailyfinesser.com,dailyfinesser.com,,,,Black
+264,dailyinfobox.com,dailyinfobox.com,,,,Black
+265,dailyinsidernews.com,dailyinsidernews.com,,,,Black
+266,dailynews10.com,dailynews10.com,,,,Black
+267,dailynews11.com,dailynews11.com,,,,Black
+268,dailynews3.com,dailynews3.com,,,,Black
+269,dailynews33.com,dailynews33.com,,,,Black
+270,dailynews5.com,dailynews5.com,,,,Black
+271,dailynewsposts.info,dailynewsposts.info,,,,Black
+272,dailyoccupation.com,dailyoccupation.com,,,,Black
+273,dailypresser.com,dailypresser.com,,,,Black
+274,dailysurge.com,dailysurge.com,,,,Black
+275,dailyusaupdate.com,dailyusaupdate.com,,,,Black
+276,damnleaks.com,damnleaks.com,,,,Black
+277,democraticmoms.com,democraticmoms.com,,,,Black
+278,denverguardian.com,denverguardian.com,,,,Black
+279,denverinquirer.com,denverinquirer.com,,,,Black
+280,departed.co,departed.co,,,,Black
+281,departedmedia.com,departedmedia.com,,,,Black
+282,dineal.com,dineal.com,,,,Black
+283,disclose.tv,disclose.tv,,,,Black
+284,diyhours.net,diyhours.net,,,,Black
+285,donaldtrumpnews.co,donaldtrumpnews.co,,,,Black
+286,donaldtrumppotus45.com,donaldtrumppotus45.com,,,,Black
+287,drugsofficial.com,drugsofficial.com,,,,Black
+288,embols.com,embols.com,,,,Black
+289,empireherald.com,empireherald.com,,,,Black
+290,empirenews.net,empirenews.net,,,,Black
+291,empiresports.co,empiresports.co,,,,Black
+292,en-volve.com,en-volve.com,,,,Black
+293,en.mediamass.net,en.mediamass.net,,,,Black
+294,endingthefed.com,endingthefed.com,,,,Black
+295,enhlive.com,enhlive.com,,,,Black
+296,everydaybreakingnews.com,everydaybreakingnews.com,,,,Black
+297,everynewshere.com,everynewshere.com,,,,Black
+298,famousviralstories.com,famousviralstories.com,,,,Black
+299,fanzinger.com,fanzinger.com,,,,Black
+300,federalistnation.com,federalistnation.com,,,,Black
+301,federalisttribune.com,federalisttribune.com,,,,Black
+302,fedsalert.com,fedsalert.com,,,,Black
+303,flashinfo.org,flashinfo.org,,,,Black
+304,flashnewscorner.com,flashnewscorner.com,,,,Black
+305,floridasunpost.com,floridasunpost.com,,,,Black
+306,focusnews.info,focusnews.info,,,,Black
+307,folksvideo.com,folksvideo.com,,,,Black
+308,fox-news24.com,fox-news24.com,,,,Black
+309,france.actualites.co,france.actualites.co,,,,Black
+310,freddymag.com,freddymag.com,,,,Black
+311,freedomcrossroads.us,freedomcrossroads.us,,,,Black
+312,freedomdaily.com,freedomdaily.com,,,,Black
+313,freedomsfinalstand.com,freedomsfinalstand.com,,,,Black
+314,freshdailyreport.com,freshdailyreport.com,,,,Black
+315,friendsofsyria.wordpress.com,friendsofsyria.wordpress.com,,,,Black
+316,givemeliberty01.com,givemeliberty01.com,,,,Black
+317,globalassociatednews.com,globalassociatednews.com,,,,Black
+318,globalpoliticsnow.com,globalpoliticsnow.com,,,,Black
+319,greenvillegazette.com,greenvillegazette.com,,,,Black
+320,guerilla.news,guerilla.news,,,,Black
+321,guerillanews.com,guerillanews.com,,,,Black
+322,gummypost.com,gummypost.com,,,,Black
+323,halturnershow.com,halturnershow.com,,,,Black
+324,headlinebrief.com,headlinebrief.com,,,,Black
+325,healthyworldhouse.com,healthyworldhouse.com,,,,Black
+326,heaviermetal.net,heaviermetal.net,,,,Black
+327,hotglobalnews.com,hotglobalnews.com,,,,Black
+328,houstonchronicle-tv.com,houstonchronicle-tv.com,,,,Black
+329,huzlers.com,huzlers.com,,,,Black
+330,ilovemyfreedom.org,ilovemyfreedom.org,,,,Black
+331,interestingdailynews.com,interestingdailynews.com,,,,Black
+332,intrendtoday.com,intrendtoday.com,,,,Black
+333,ipatriot.com,ipatriot.com,,,,Black
+334,isthatlegit.com,isthatlegit.com,,,,Black
+335,jokerviral.com,jokerviral.com,,,,Black
+336,kata33.com,kata33.com,,,,Black
+337,klponews.com,klponews.com,,,,Black
+338,km8news.com,km8news.com,,,,Black
+339,kmt11.com,kmt11.com,,,,Black
+340,knp7.com,knp7.com,,,,Black
+341,konkonsagh.biz,konkonsagh.biz,,,,Black
+342,krbcnews.com,krbcnews.com,,,,Black
+343,kspm33.com,kspm33.com,,,,Black
+344,kupr7.com,kupr7.com,,,,Black
+345,ky12news.com,ky12news.com,,,,Black
+346,ky6news.com,ky6news.com,,,,Black
+347,kypo6.com,kypo6.com,,,,Black
+348,ladylibertysnews.com,ladylibertysnews.com,,,,Black
+349,landrypost.com,landrypost.com,,,,Black
+350,lastdeplorables.com,lastdeplorables.com,,,,Black
+351,liberalplug.com,liberalplug.com,,,,Black
+352,liberty-courier.com,liberty-courier.com,,,,Black
+353,libertyalliance.com,libertyalliance.com,,,,Black
+354,libertywritersnews.com,libertywritersnews.com,,,,Black
+355,local31news.com,local31news.com,,,,Black
+356,localnews33.com,localnews33.com,,,,Black
+357,londonwebnews.com,londonwebnews.com,,,,Black
+358,lopezreport.com,lopezreport.com,,,,Black
+359,madworldnews.com,madworldnews.com,,,,Black
+360,mainerepublicemailalert.com,mainerepublicemailalert.com,,,,Black
+361,majorthoughts.com,majorthoughts.com,,,,Black
+362,maywoodpost.com,maywoodpost.com,,,,Black
+363,mbynews.com,mbynews.com,,,,Black
+364,mckenziepost.com,mckenziepost.com,,,,Black
+365,mediazone.news,mediazone.news,,,,Black
+366,metropolitanworlds.com,metropolitanworlds.com,,,,Black
+367,mississippiherald.com,mississippiherald.com,,,,Black
+368,morningnewsusa.com,morningnewsusa.com,,,,Black
+369,mrnewswatch.com,mrnewswatch.com,,,,Black
+370,msfanpage.link,msfanpage.link,,,,Black
+371,msnbc.website,msnbc.website,,,,Black
+372,nationalinsiderpolitics.com,nationalinsiderpolitics.com,,,,Black
+373,nationalreport.net,nationalreport.net,,,,Black
+374,nbc.com.co,nbc.com.co,,,,Black
+375,ncscooper.com,ncscooper.com,,,,Black
+376,neonnettle.com,neonnettle.com,,,,Black
+377,nephef.com,nephef.com,,,,Black
+378,nevo.news,nevo.news,,,,Black
+379,newpoliticstoday.com,newpoliticstoday.com,,,,Black
+380,news14kgpn.com,news14kgpn.com,,,,Black
+381,news14now.com,news14now.com,,,,Black
+382,news4ktla.com,news4ktla.com,,,,Black
+383,newsbiscuit.com,newsbiscuit.com,,,,Black
+384,newsbreakingspipe.com,newsbreakingspipe.com,,,,Black
+385,newsbreakshere.com,newsbreakshere.com,,,,Black
+386,newsbuzzdaily.com,newsbuzzdaily.com,,,,Black
+387,newsbysquad.com,newsbysquad.com,,,,Black
+388,newsdaily10.com,newsdaily10.com,,,,Black
+389,newsdaily12.com,newsdaily12.com,,,,Black
+390,newsdaily27.com,newsdaily27.com,,,,Black
+391,newsexaminer.net,newsexaminer.net,,,,Black
+392,newsfeedhunter.com,newsfeedhunter.com,,,,Black
+393,newsfeedobserver.com,newsfeedobserver.com,,,,Black
+394,newshubs.info,newshubs.info,,,,Black
+395,newsjustforyou1.blogspot.com,newsjustforyou1.blogspot.com,,,,Black
+396,newsleak.co,newsleak.co,,,,Black
+397,newslo.com,newslo.com,,,,Black
+398,newsnow17.com,newsnow17.com,,,,Black
+399,newswatch33.com,newswatch33.com,,,,Black
+400,newzmagazine.com,newzmagazine.com,,,,Black
+401,notallowedto.com,notallowedto.com,,,,Black
+402,noticias365.info,noticias365.info,,,,Black
+403,now8news.com,now8news.com,,,,Black
+404,nymeta.co,nymeta.co,,,,Black
+405,occupydemocrats.com,occupydemocrats.com,,,,Black
+406,onepoliticalplaza.com,onepoliticalplaza.com,,,,Black
+407,openmagazines.com,openmagazines.com,,,,Black
+408,oreillypost.com,oreillypost.com,,,,Black
+409,ourlandofthefree.com,ourlandofthefree.com,,,,Black
+410,paris.actualites.co,paris.actualites.co,,,,Black
+411,patriothangout.com,patriothangout.com,,,,Black
+412,persecutes.com,persecutes.com,,,,Black
+413,politicops.com,politicops.com,,,,Black
+414,politicot.com,politicot.com,,,,Black
+415,politicsusanews.com,politicsusanews.com,,,,Black
+416,powerdaily.us,powerdaily.us,,,,Black
+417,president45donaldtrump.com,president45donaldtrump.com,,,,Black
+418,pressunion.org,pressunion.org,,,,Black
+419,prntly.com,prntly.com,,,,Black
+420,proudleader.com,proudleader.com,,,,Black
+421,qualitysharing.com,qualitysharing.com,,,,Black
+422,react365.com,react365.com,,,,Black
+423,readconservatives.news,readconservatives.news,,,,Black
+424,realnewsrightnow.com,realnewsrightnow.com,,,,Black
+425,redcountry.us,redcountry.us,,,,Black
+426,redinfo.us,redinfo.us,,,,Black
+427,redrocktribune.com,redrocktribune.com,,,,Black
+428,redstatewatcher.com,redstatewatcher.com,,,,Black
+429,religionmind.com,religionmind.com,,,,Black
+430,rickwells.us,rickwells.us,,,,Black
+431,rilenews.com,rilenews.com,,,,Black
+432,rogue-nation3.com,rogue-nation3.com,,,,Black
+433,rumorjournal.com,rumorjournal.com,,,,Black
+434,satiratribune.com,satiratribune.com,,,,Black
+435,scrapetv.com,scrapetv.com,,,,Black
+436,smhwtfnews.com,smhwtfnews.com,,,,Black
+437,snoopack.com,snoopack.com,,,,Black
+438,socialeverythings.com,socialeverythings.com,,,,Black
+439,southernconservativeextra.com,southernconservativeextra.com,,,,Black
+440,spinzon.com,spinzon.com,,,,Black
+441,statenation.co,statenation.co,,,,Black
+442,states-tv.com,states-tv.com,,,,Black
+443,stgeorgegazette.com,stgeorgegazette.com,,,,Black
+444,straightstoned.com,straightstoned.com,,,,Black
+445,stuppid.com,stuppid.com,,,,Black
+446,success-street.com,success-street.com,,,,Black
+447,supremepatriot.com,supremepatriot.com,,,,Black
+448,tdnewswire.com,tdnewswire.com,,,,Black
+449,tdtalliance.com,tdtalliance.com,,,,Black
+450,teddystick.com,teddystick.com,,,,Black
+451,telegraphsun.com,telegraphsun.com,,,,Black
+452,the-insider.co,the-insider.co,,,,Black
+453,the-postillon.com,the-postillon.com,,,,Black
+454,theavocadonews.com,theavocadonews.com,,,,Black
+455,thebostontribune.com,thebostontribune.com,,,,Black
+456,thebreakingnews.co,thebreakingnews.co,,,,Black
+457,theexaminer.site,theexaminer.site,,,,Black
+458,thefrt.com,thefrt.com,,,,Black
+459,theinternationalreporter.org,theinternationalreporter.org,,,,Black
+460,theinternetpost.net,theinternetpost.net,,,,Black
+461,thelastlineofdefense.org,thelastlineofdefense.org,,,,Black
+462,themoralofthestory.us,themoralofthestory.us,,,,Black
+463,thenationalsun.com,thenationalsun.com,,,,Black
+464,thenet24h.com,thenet24h.com,,,,Black
+465,thenewsnerd.com,thenewsnerd.com,,,,Black
+466,thenewyorkevening.com,thenewyorkevening.com,,,,Black
+467,thenochill.com,thenochill.com,,,,Black
+468,thepoliticaltribune.com,thepoliticaltribune.com,,,,Black
+469,thepremiumnews.com,thepremiumnews.com,,,,Black
+470,theracketreport.com,theracketreport.com,,,,Black
+471,thereporterz.com,thereporterz.com,,,,Black
+472,therightists.com,therightists.com,,,,Black
+473,theseattletribune.com,theseattletribune.com,,,,Black
+474,thetrumpmedia.com,thetrumpmedia.com,,,,Black
+475,theusa-news.com,theusa-news.com,,,,Black
+476,theusaconservative.com,theusaconservative.com,,,,Black
+477,thevalleyreport.com,thevalleyreport.com,,,,Black
+478,thewashingtonpress.com,thewashingtonpress.com,,,,Black
+479,times.com.mx,times.com.mx,,,,Black
+480,tmzbreaking.com,tmzbreaking.com,,,,Black
+481,tmzbusiness.com,tmzbusiness.com,,,,Black
+482,tmzcomedy.com,tmzcomedy.com,,,,Black
+483,tmzhiphop.com,tmzhiphop.com,,,,Black
+484,tmzuncut.com,tmzuncut.com,,,,Black
+485,tmzurban.com,tmzurban.com,,,,Black
+486,tmzworldnews.com,tmzworldnews.com,,,,Black
+487,tmzworldstarnews.com,tmzworldstarnews.com,,,,Black
+488,trueamericans.me,trueamericans.me,,,,Black
+489,truetrumpers.com,truetrumpers.com,,,,Black
+490,truthkings.com,truthkings.com,,,,Black
+491,undergroundnewsreport.com,undergroundnewsreport.com,,,,Black
+492,unitedmediapublishing.com,unitedmediapublishing.com,,,,Black
+493,universepolitics.com,universepolitics.com,,,,Black
+494,usa-conservative.com,usa-conservative.com,,,,Black
+495,usa-radio.com,usa-radio.com,,,,Black
+496,usa-television.com,usa-television.com,,,,Black
+497,usadailyinfo.com,usadailyinfo.com,,,,Black
+498,usadailypost.us,usadailypost.us,,,,Black
+499,usadailytime.com,usadailytime.com,,,,Black
+500,usadosenews.com,usadosenews.com,,,,Black
+501,usafirstinformation.com,usafirstinformation.com,,,,Black
+502,usanews4u.us,usanews4u.us,,,,Black
+503,usanewsflash.com,usanewsflash.com,,,,Black
+504,usanewshome.com,usanewshome.com,,,,Black
+505,usanewstoday.com,usanewstoday.com,,,,Black
+506,usapolitics24hrs.com,usapolitics24hrs.com,,,,Black
+507,usapoliticsnow.com,usapoliticsnow.com,,,,Black
+508,usapoliticstoday.com,usapoliticstoday.com,,,,Black
+509,usapoliticszone.com,usapoliticszone.com,,,,Black
+510,usasnich.com,usasnich.com,,,,Black
+511,usatodaynews.me,usatodaynews.me,,,,Black
+512,usatodaypolitics.com,usatodaypolitics.com,,,,Black
+513,usaworldbox.com,usaworldbox.com,,,,Black
+514,ushealthyadvisor.com,ushealthyadvisor.com,,,,Black
+515,ushealthylife.com,ushealthylife.com,,,,Black
+516,usherald.com,usherald.com,,,,Black
+517,usinfonews.com,usinfonews.com,,,,Black
+518,uspoln.com,uspoln.com,,,,Black
+519,uspostman.com,uspostman.com,,,,Black
+520,vesselnews.io,vesselnews.io,,,,Black
+521,viralactions.com,viralactions.com,,,,Black
+522,viralcocaine.com,viralcocaine.com,,,,Black
+523,viralcords.com,viralcords.com,,,,Black
+524,viraldevil.com,viraldevil.com,,,,Black
+525,viralmugshot.com,viralmugshot.com,,,,Black
+526,viralpropaganda.com,viralpropaganda.com,,,,Black
+527,viralspeech.com,viralspeech.com,,,,Black
+528,viralstuppid.com,viralstuppid.com,,,,Black
+529,voxtribune.com,voxtribune.com,,,,Black
+530,washingtonevening.com,washingtonevening.com,,,,Black
+531,washingtonfeed.com,washingtonfeed.com,,,,Black
+532,washingtonpost.com.co,washingtonpost.com.co,,,,Black
+533,wazanews.tk,wazanews.tk,,,,Black
+534,wcpm3.com,wcpm3.com,,,,Black
+535,weconservative.com,weconservative.com,,,,Black
+536,weekendherald.com,weekendherald.com,,,,Black
+537,wetheproudpatriots.com,wetheproudpatriots.com,,,,Black
+538,wftj8news.com,wftj8news.com,,,,Black
+539,whatsupic.com,whatsupic.com,,,,Black
+540,witscience.org,witscience.org,,,,Black
+541,wleb21.com,wleb21.com,,,,Black
+542,wm21news.com,wm21news.com,,,,Black
+543,wmacnews.com,wmacnews.com,,,,Black
+544,wmb36.com,wmb36.com,,,,Black
+545,world-politicus.com,world-politicus.com,,,,Black
+546,worldinformation24.info,worldinformation24.info,,,,Black
+547,worldnewsdailyreport.com,worldnewsdailyreport.com,,,,Black
+548,worldnewspolitics.com,worldnewspolitics.com,,,,Black
+549,worldpoliticsnow.com,worldpoliticsnow.com,,,,Black
+550,worldpoliticus.com,worldpoliticus.com,,,,Black
+551,wrejnews.com,wrejnews.com,,,,Black
+552,wrpt16.com,wrpt16.com,,,,Black
+553,wtoe5news.com,wtoe5news.com,,,,Black
+554,xbn-news.com,xbn-news.com,,,,Black
+555,yesimright.com,yesimright.com,,,,Black
+556,yournewswire.com,yournewswire.com,,,,Black
+557,zootfeed.com,zootfeed.com,,,,Black
+559,10News.one,10news.one,,,,
+561,Banned.Video,79days.news,,,,
+562,911Truth.org,911truth.org,,,,
+563,Association of American Physicians and Surgeons,aapsonline.org,,,,
+564,Above Top Secret,abovetopsecret.com,,,,
+565,Action News 3,actionnews3.com,,,,
+566,Activist Post,activistpost.com,,,,
+567,Alliance Defending Freedom,adflegal.org,,,,
+568,American Family Association,afa.net,,,,
+569,All News Pipeline,allnewspipeline.com,,,,
+570,Alpha News,alphanewsmn.com,,,,
+571,AlternativeNews.com,alternativenews.com,,,,
+572,AltHealth Works,althealthworks.com,,,,
+573,Alt-Right TV,altrighttv.com,,,,
+574,America Max News,americamaxnews.com,,,,
+575,American Conservative Movement,americanconservativemovement.com,,,,
+576,American Free Press,americanfreepress.net,,,,
+578,American Lookout,americanlookout.com,,,,
+579,American People Daily,americanpeopledaily.com,,,,
+580,American Policy Center,americanpolicy.org,,,,
+581,American Principles Project,americanprinciplesproject.org,,,,
+582,Americans for Truth about Homosexuality,americansfortruth.com,,,,
+583,American Thinker,americanthinker.com,,,,
+584,American Truth Today,americantruthtoday.com,,,,
+585,Americas Freedom Fighters,americasfreedomfighters.com,,,,
+586,American Renaissance Magazine,amren.com,,,,
+587,Alternative Media Television (AMTV),amtvmedia.com,,,,
+588,We are Anonymous,anonhq.com,,,,
+589,AskingAngels,askingangels.com,,,,
+590,Assassination Science,assassinationscience.com,,,,
+591,Australian National Review,australiannationalreview.com,,,,
+592,A Voice for Men,avoiceformen.com,,,,
+593,Awareness Act,awarenessact.com,,,,
+594,Banned.Video,banned.video,,,,
+595,Bare Naked Islam,barenakedislam.com,,,,
+597,Becker News,beckernews.com,,,,
+599,Big Government News,biggovernment.news,,,,
+600,Big League Politics,bigleaguepolitics.com,,,,
+601,BillionBibles.org,billionbibles.org,,,,
+602,BioDefense,biodefense.com,,,,
+603,BitChute,bitchute.com,,,,
+604,Black Eye Politics,blackeyepolitics.com,,,,
+605,Black Genocide,blackgenocide.org,,,,
+606,Blingnews.com,blingnews.com,,,,
+607,Blunt Force Truth,bluntforcetruth.com,,,,
+608,Brand New Tube,brandnewtube.com,,,,
+609,Breaking911,breaking911.com,,,,
+610,Breaking Christian News,breakingchristiannews.com,,,,
+611,Breaking First,breakingfirst.com,,,,
+612,Brighteon,brighteon.com,,,,
+613,Bugout.news,bugout.news,,,,
+614,CampusInsanity,campusinsanity.com,,,,
+615,Canada Free Press,canadafreepress.com,,,,
+616,Cancer.news,cancer.news,,,,
+617,Cap News,cap-news.com,,,,
+618,Christian Apologetics & Research Ministry (CARM),carm.org,,,,
+619,Competitive Enterprise Institute,cei.org,,,,
+620,Censored.news,censored.news,,,,
+621,The Committee for a Constructive Tomorrow (CFACT),cfact.org,,,,
+622,Children's Health Defense,childrenshealthdefense.org,,,,
+623,Chlorella Factor,chlorellafactor.com,,,,
+624,Christian Action Network,christianaction.org,,,,
+625,Christian Science,christianscience.com,,,,
+626,CityWorldNews,cityworldnews.com,,,,
+627,Clarion Project,clarionproject.org,,,,
+629,Climate.News,climate.news,,,,
+630,Climate Change Dispatch,climatechangedispatch.com,,,,
+631,Climatism,climatism.blog,,,,
+632,Clover Chronicle,cloverchronicle.com,,,,
+633,cnn-globalnews.com,cnn-globalnews.com,,,,
+634,CNS News,cnsnews.com,,,,
+635,Coast to Coast AM,coasttocoastam.com,,,,
+636,Collapse.News,collapse.news,,,,
+637,Collective Evolution,collective-evolution.com,,,,
+638,Concerned Women for America,concernedwomen.org,,,,
+639,Conservative Ammo,conservativeammo.com,,,,
+640,Conservative Beaver,conservativebeaver.com,,,,
+642,Conservative Free Press,conservativefreepress.com,,,,
+643,Conservative Post,conservativepost.com,,,,
+644,Conspiracy Daily Update,conspiracydailyupdate.com,,,,
+645,Consumer Wellness Center,consumerwellness.org,,,,
+646,The Corbett Report,corbettreport.com,,,,
+647,Corona Transition,corona-transition.org,,,,
+648,Cosmic Intelligence Agency,cosmicintelligenceagency.com,,,,
+649,CounterThink.com,counterthink.com,,,,
+650,Christian Ministries International,creation.com,,,,
+651,CS Globe,csglobe.com,,,,
+652,Curious Mind Magazine,curiousmindmagazine.com,,,,
+653,Daily Buzz Live,dailybuzzlive.com,,,,
+654,The Daily Expose,dailyexpose.co.uk,,,,
+655,Daily Headlines,dailyheadlines.net,,,,
+656,DailyHealthPost,dailyhealthpost.com,,,,
+659,Dark Journalist,darkjournalist.com,,,,
+660,Data Asylum,dataasylum.com,,,,
+661,David Harris Jr,davidharrisjr.com,,,,
+662,David Icke,davidicke.com,,,,
+664,DC Dirty Laundry,dcdirtylaundry.com,,,,
+665,DC Gazette,dcgazette.com,,,,
+666,Defiant America,defiantamerica.com,,,,
+667,Deplorable Kel,deplorablekel.com,,,,
+668,The Times of America,digifection.com,,,,
+670,Discover the Networks,discoverthenetworks.org,,,,
+671,Discovery Institute,discovery.org,,,,
+672,Hang The Censors,distributednews.com,,,,
+673,BitChute,djhjmedia.com,,,,
+674,Earthpulse Press,earthpulse.com,,,,
+675,Ecology News,ecology.news,,,,
+676,Educate Yourself,educate-yourself.org,,,,
+677,Electroverse,electroverse.net,,,,
+678,Elizabeth Johnston,elizabethjohnston.org,,,,
+681,Metapedia,en.metapedia.org,,,,
+682,Newsner,en.newsner.com,,,,
+683,End the Fed,endthefed.org,,,,
+684,Escape all these Things,escapeallthesethings.com,,,,
+685,Eugenics.News,eugenics.news,,,,
+686,Every Legal Vote,everylegalvote.com,,,,
+687,Evil.News,evil.news,,,,
+688,Evolution News and Views,evolutionnews.org,,,,
+689,Explain Life,explainlife.com,,,,
+690,The Federation for American Immigration Reform,fairus.org,,,,
+692,Focus on the Family,focusonthefamily.com,,,,
+693,Food.News,food.news,,,,
+694,Forever Conscious,foreverconscious.com,,,,
+695,For the Right News,fortherightnews.com,,,,
+696,Frank Speech,frankspeech.com,,,,
+697,Family Research Council,frc.org,,,,
+698,Free-Speech Front,free-speechfront.info,,,,
+699,Freedom.News,freedom.news,,,,
+700,Freedom Advocates,freedomadvocates.org,,,,
+702,Freedom First Network,freedomfirstnetwork.com,,,,
+703,Fria Tider,friatider.se,,,,
+704,From the Trenches World Report,fromthetrenchesworldreport.com,,,,
+706,Fury News,fury.news,,,,
+707,Gaia,gaia.com,,,,
+708,Geller Report,gellerreport.com,,,,
+709,Geoengineering.News,geoengineering.news,,,,
+710,GeoEngineering Watch,geoengineeringwatch.org,,,,
+711,Geopolitical Studies Institute,geopol.institute,,,,
+712,Get Holistic Health,getholistichealth.com,,,,
+713,Glitch.News,glitch.news,,,,
+714,Global Info Today,globalinfotoday.com,,,,
+715,Global Research,globalresearch.ca,,,,
+716,Global Skywatch,globalskywatch.com,,,,
+717,Globe Magazine,globemagazine.com,,,,
+718,GMO.News,gmo.news,,,,
+719,Gnews,gnews.org,,,,
+720,Evidence for God from Science,godandscience.org,,,,
+721,Godlike Productions,godlikeproductions.com,,,,
+722,GoodGopher,goodgopher.com,,,,
+723,Goop,goop.com,,,,
+724,Got Questions,gotquestions.org,,,,
+725,Government Slaves,govtslaves.com,,,,
+726,Grain of Truth,grainoftruth.ca,,,,
+727,Great American Daily,greatamericandaily.com,,,,
+729,GreatReject,greatreject.org,,,,
+730,GreenMedInfo,greenmedinfo.com,,,,
+732,Gulag Bound,gulagbound.com,,,,
+733,Hang The Bankers,hangthebankers.com,,,,
+734,Sean Hannity,hannity.com,,,,
+735,Healing Food Reference,healingfoodreference.com,,,,
+736,Healing Oracle,healingoracle.ch,,,,
+737,Health.News,health.news,,,,
+738,Health Impact News,healthimpactnews.com,,,,
+739,Health Nut News,healthnutnews.com,,,,
+740,The Health Ranger,healthranger.com,,,,
+741,Health Ranger Report,healthrangerreport.com,,,,
+742,Healthy Holistic Living,healthy-holistic-living.com,,,,
+743,Healthy Food House,healthyfoodhouse.com,,,,
+744,Heartland Institute,heartland.org,,,,
+745,Herbreference.com,herbreference.com,,,,
+746,Hogg Watch,hoggwatch.com,,,,
+747,Health Sciences Institute,hsionline.com,,,,
+748,Humans are Free,humansarefree.com,,,,
+749,Ice Age Now,iceagenow.info,,,,
+750,Institute for Creation Research (IRC),icr.org,,,,
+751,If You Only News,ifyouonlynews.com,,,,
+752,I Hate the Media,ihatethemedia.com,,,,
+753,iHealthtube.com,ihealthtube.com,,,,
+754,Institute for Historical Review (IHR),ihr.org,,,,
+755,Illicit Info,illicitinfo.com,,,,
+756,Illuminati News,illuminati-news.com,,,,
+757,Illuminati Watcher,illuminatiwatcher.com,,,,
+759,IMOwired,imowired.com,,,,
+760,Infinite Unknown,infiniteunknown.net,,,,
+761,InfoGalactic,infogalactic.com,,,,
+762,Information Liberation,informationliberation.com,,,,
+763,InfoRos.ru,inforos.ru,,,,
+765,Ingredients.News,ingredients.news,,,,
+766,Intellihub,intellihub.com,,,,
+767,Iowa Climate Science Education,iowaclimate.org,,,,
+768,Jesus is Savior,jesus-is-savior.com,,,,
+769,Jesus Daily,jesusdaily.com,,,,
+770,Joe Biden News,joebiden.news,,,,
+771,Judicial Watch,judicialwatch.org,,,,
+772,JunkScience.com,junkscience.com,,,,
+773,Knowledge of Today,knowledgeoftoday.org,,,,
+774,LaRouche PAC,larouchepac.com,,,,
+775,LearnTheRisk.org,learntherisk.org,,,,
+776,Left Action,leftaction.com,,,,
+777,LeftCult,leftcult.com,,,,
+778,Left Exposed,leftexposed.org,,,,
+779,Liberty.News,liberty.news,,,,
+780,Liberty Bell,libertybell.com,,,,
+781,Liberty Hangout,libertyhangout.org,,,,
+782,Liberty Videos,libertyvideos.org,,,,
+783,Libtards.News,libtards.news,,,,
+784,Life News,lifenews.com,,,,
+785,LifeSpa,lifespa.com,,,,
+786,Lindell TV,lindelltv.com,,,,
+788,LoonWatch,loonwatch.com,,,,
+790,Media Fact Watch,mediafactwatch.com,,,,
+791,Medical Medium,medicalmedium.com,,,,
+792,Medicine News,medicine.news,,,,
+793,Middle East Forum,meforum.org,,,,
+794,Mercola,mercola.com,,,,
+795,National Conservative,merica1st.com,,,,
+796,Mixi.Media,mixi.media,,,,
+797,MoonBattery,moonbattery.com,,,,
+798,My Right American,myrightamerica.com,,,,
+799,National Alliance,natall.com,,,,
+800,National Economics Editorial,nationaleconomicseditorial.com,,,,
+801,National Enquirer,nationalenquirer.com,,,,
+802,National File,nationalfile.com,,,,
+803,National Policy Institute,nationalpolicy.institute,,,,
+804,NRL News Today,nationalrighttolifenews.org,,,,
+805,NationalSecurity.News,nationalsecurity.news,,,,
+806,National Vanguard,nationalvanguard.org,,,,
+807,NaturalMedicine.News,naturalmedicine.news,,,,
+809,NaturalNewsBlogs,naturalnewsblogs.com,,,,
+810,Natural News Radio,naturalnewsradio.com,,,,
+811,NaturalPedia.com,naturalpedia.com,,,,
+812,The Navarro Report,navarroreport.com,,,,
+813,Need to Know,needtoknow.news,,,,
+815,New American News,newamericannews.com,,,,
+816,New Nation News,newnation.org,,,,
+818,News Heist,newsheist.com,,,,
+819,News Hour First,newshourfirst.com,,,,
+820,News Inside Out,newsinsideout.com,,,,
+821,News Punch,newspunch.com,,,,
+822,News Pushed,newspushed.com,,,,
+823,News Target,newstarget.com,,,,
+824,Newsview,newsview.gr,,,,
+825,NewsWars,newswars.com,,,,
+826,News with Views,newswithviews.com,,,,
+828,NoTricksZone,notrickszone.com,,,,
+831,NPR News,npr.news,,,,
+832,National Right to Life Committee,nrlc.org,,,,
+833,NutrientReference.com,nutrientreference.com,,,,
+834,National Vaccine Information Institute,nvic.org,,,,
+836,Oath Keepers,oathkeepers.org,,,,
+838,Organic Consumers Association,organicconsumers.org,,,,
+839,The Other 98%,other98.com,,,,
+840,Outraged Patriot,outragedpatriot.com,,,,
+841,Oye.news,oye.news,,,,
+842,Pacific Pundit,pacificpundit.com,,,,
+843,Pak Alert Press,pakalertpress.com,,,,
+844,Pandemic News,pandemic.news,,,,
+845,Pants on Fire News,pantsonfirenews.com,,,,
+846,Parler,parler.com,,,,
+847,Patribotics Blog,patribotics.blog,,,,
+848,Patriot Fires,patriotfires.com,,,,
+849,Patriot Front,patriotfront.us,,,,
+850,Patriotic Viral News,patrioticviralnews.com,,,,
+851,Patriots For Truth,patriots4truth.org,,,,
+852,PC Must Die News,pcmustdie.com,,,,
+853,Primary Doctor Medical Journal,pdmj.org,,,,
+854,Personal Interpretation,personalinterpretation.com,,,,
+855,Personal Liberty,personalliberty.com,,,,
+856,PoliticalDiscussion,political-discussion.com,,,,
+857,PoliticsOnline.net,politicsonline.net,,,,
+858,Poltifact News,politifact.news,,,,
+859,Pollution News,pollution.news,,,,
+860,Population Research Institute,pop.org,,,,
+861,Populist Press,populist.press,,,,
+863,PragerU,prageru.com,,,,
+864,Pravda Report,pravdareport.com,,,,
+865,Prepare for Change,prepareforchange.net,,,,
+866,Press TV,presstv.com,,,,
+867,Principia Scientific International,principia-scientific.org,,,,
+868,Prison Planet,prisonplanet.com,,,,
+870,International Organization for the Family (IOF),profam.org,,,,
+871,Progressives Today,progressivestoday.com,,,,
+872,Prophecy News Watch,prophecynewswatch.com,,,,
+873,Prophecy Today,prophecytoday.com,,,,
+874,Pro Trump News,protrumpnews.com,,,,
+875,QAnon.pub,qanon.pub,,,,
+876,RandPaul.News,randpaul.news,,,,
+877,Rapture News Network,rapturenewsnetwork.com,,,,
+878,Real Climate Science,realclimatescience.com,,,,
+879,RealFarmacy,realfarmacy.com,,,,
+880,Real Jew News,realjewnews.com,,,,
+881,Real News 24,realnews24.com,,,,
+882,Red Ice TV,redice.tv,,,,
+884,"Red, White and Right",redwhiteandright.com,,,,
+885,The Remnant Newspaper,remnantnewspaper.com,,,,
+886,Renew America,renewamerica.com,,,,
+887,Rense,rense.com,,,,
+888,Center for Research of Radicalism and National Security,researchantisemitism.ca,,,,
+889,Return of Kings,returnofkings.com,,,,
+890,Return to Now,returntonow.net,,,,
+891,Revolution Radio,revolutionradio.org,,,,
+892,Righter Way,righterway.com,,,,
+894,Right Wing News (rightwing.news),rightwing.news,,,,
+896,Right Wing Tribune,rightwingtribune.com,,,,
+897,RINF,rinf.com,,,,
+898,Right Side Broascasting Network,rsbnetwork.com,,,,
+899,RT News,rt.com,,,,
+900,Rumble,rumble.com,,,,
+901,The Rush Limbaugh Show,rushlimbaugh.com,,,,
+902,Russia Insider,russia-insider.com,,,,
+903,SaneVax,sanevax.org,,,,
+904,Henry Makow (savethemales.ca),savethemales.ca,,,,
+905,Science.News,science.news,,,,
+906,2nd Amendment Daily News,secondamendmentdaily.com,,,,
+907,SGT Report,sgtreport.com,,,,
+908,Sheep Killers,sheepkillers.com,,,,
+909,Shoebat,shoebat.com,,,,
+910,Sick Chirpse,sickchirpse.com,,,,
+911,Skeptiko,skeptiko.com,,,,
+912,Santa Monica Observer,smobserved.com,,,,
+913,Snopes News,snopes.news,,,,
+914,Sons of 1776,sonsof1776.com,,,,
+915,Signs of the Times,sott.net,,,,
+916,South Front,southfront.org,,,,
+917,Speech Point,speech-point.com,,,,
+918,Sputnik,sputniknews.com,,,,
+919,Squawker,squawker.org,,,,
+920,Stares at the World,staresattheworld.com,,,,
+922,State of the Nation 2012,stateofthenation2012.com,,,,
+923,Steadfast and Loyal,steadfastandloyal.com,,,,
+924,Stillness in the Storm,stillnessinthestorm.com,,,,
+925,Stone Cold Truth,stonecoldtruth.com,,,,
+926,Storm Clouds Gathering,stormcloudsgathering.com,,,,
+927,Stormfront,stormfront.org,,,,
+928,Strategic Culture Foundation,strategic-culture.org,,,,
+929,Summit News,summit.news,,,,
+930,SupplementReference.com,supplementreference.com,,,,
+931,Support Israel Now,supportisraelnow.com,,,,
+932,SurvivalBlog.com,survivalblog.com,,,,
+933,Sustainable Pulse,sustainablepulse.com,,,,
+934,SwampDrain.com,swampdrain.com,,,,
+935,Swarajya,swarajyamag.com,,,,
+936,Syria News,syrianews.cc,,,,
+937,Taki's Magazine,takimag.com,,,,
+938,TalkNetwork.com,talknetwork.com,,,,
+940,Technocracy News,technocracy.news,,,,
+941,"American Society for the Defense of Tradition, Family, and Property",tfp.org,,,,
+942,The American Mirror,theamericanmirror.com,,,,
+943,The Bearded Patriot,thebeardedpatriot.com,,,,
+944,The Breaking News,thebreakingnews.com,,,,
+945,The Common Sense Show,thecommonsenseshow.com,,,,
+946,The Conservative Central,theconservativecentral.com,,,,
+948,The Daily Bell,thedailybell.com,,,,
+949,The Daily Conspiracy,thedailyconspiracy.com,,,,
+950,The Daily Sheeple,thedailysheeple.com,,,,
+951,The DC Patriot,thedcpatriot.com,,,,
+952,The Duran,theduran.com,,,,
+954,The Forbidden Knowledge,theforbiddenknowledge.com,,,,
+955,The Freedom Times,thefreedomtimes.com,,,,
+956,Free Thought Project,thefreethoughtproject.com,,,,
+957,The Fullerton Informer,thefullertoninformer.com,,,,
+959,The Goldwater,thegoldwater.com,,,,
+960,The Healthy American,thehealthyamerican.org,,,,
+961,The Highwire,thehighwire.com,,,,
+963,The Laugh Club,thelaughclub.net,,,,
+964,The Liberty Beacon,thelibertybeacon.com,,,,
+965,The Millennium Report,themillenniumreport.com,,,,
+969,Witherspoon Institute,thepublicdiscourse.com,,,,
+970,The Red Elephants,theredelephants.com,,,,
+971,The Religion of Peace,thereligionofpeace.com,,,,
+972,The Right Stuff,therightstuff.biz,,,,
+973,The Rundown Live,therundownlive.com,,,,
+974,TheSpectator.info,thespectator.info,,,,
+975,The True Defender,thetruedefender.com,,,,
+976,The True Reporter,thetruereporter.com,,,,
+977,The Truth about Cancer,thetruthaboutcancer.com,,,,
+978,The Truth Seeker,thetruthseeker.co.uk,,,,
+979,The Truth Voice,thetruthvoice.net,,,,
+980,The Union Journal,theunionjournal.com,,,,
+981,The Vaccine Reaction,thevaccinereaction.org,,,,
+982,The Washington Standard,thewashingtonstandard.com,,,,
+983,Think Americana,thinkamericana.com,,,,
+984,Thinking Humanity,thinkinghumanity.com,,,,
+985,Thinking Mom's Revolution,thinkingmomsrevolution.com,,,,
+986,Thought Crime Radio,thoughtcrimeradio.net,,,,
+987,Thrive Movement,thrivemovement.com,,,,
+988,Toronto Today,torontotoday.net,,,,
+989,Turning Point USA,tpusa.com,,,,
+990,Treason News,treason.news,,,,
+991,Trigger Reset,triggerreset.net,,,,
+993,True Pundit,truepundit.com,,,,
+994,True Viral News,trueviralnews.com,,,,
+995,Trump.News,trump.news,,,,
+997,Truth and Action,truthandaction.org,,,,
+998,Truth in Media,truthinmedia.com,,,,
+999,Truth Monitor,truthmonitor.com,,,,
+1001,Twisted News,twisted.news,,,,
+1002,UK Column,ukcolumn.org,,,,
+1003,Uncle Sam's Misguided Children,unclesamsmisguidedchildren.com,,,,
+1004,Understanding the threat,understandingthethreat.com,,,,
+1005,Unite America First,uniteamericafirst.com,,,,
+1006,The Unz Review,unz.com,,,,
+1007,24 News,us24news.com,,,,
+1008,USA Hitman,usahitman.com,,,,
+1009,USA is Online,usaisonline.com,,,,
+1010,USA Really,usareally.com,,,,
+1012,USAWatchdog.com,usawatchdog.com,,,,
+1013,US Backlash,usbacklash.org,,,,
+1015,US Liberty Wire,uslibertywire.com,,,,
+1016,Vaccine Impact,vaccineimpact.com,,,,
+1017,Vaccine News,vaccines.news,,,,
+1018,Vaccines Revealed,vaccinesrevealed.com,,,,
+1019,VacTruth.com,vactruth.com,,,,
+1020,Vaxxter,vaxxter.com,,,,
+1021,Vdare,vdare.com,,,,
+1022,Veterans Today,veteranstoday.com,,,,
+1023,Vidmax,vidmax.com,,,,
+1024,Vigilant Citizen,vigilantcitizen.com,,,,
+1026,Viral Hatch,viralhatch.com,,,,
+1027,Viral News Network,viralnewsnetwork.net,,,,
+1028,Vote Fraud News,votefraud.news,,,,
+1029,Wake Up World,wakeup-world.com,,,,
+1030,The Waking Times,wakingtimes.com,,,,
+1031,WallBuilders,wallbuilders.com,,,,
+1032,Watts Up with that,wattsupwiththat.com,,,,
+1033,WayneDupree.com,waynedupree.com,,,,
+1034,We Love Trump,welovetrump.com,,,,
+1035,Weston A. Price Foundation,westonaprice.org,,,,
+1036,Whale.to,whale.to,,,,
+1037,WhiteHouse.News,whitehouse.news,,,,
+1038,Why Don't You Try This,whydontyoutrythis.com,,,,
+1040,World Affairs Brief,worldaffairsbrief.com,,,,
+1041,World Doctors Alliance,worlddoctorsalliance.com,,,,
+1042,WorldHealth.Net,worldhealth.net,,,,
+1044,X22 Report,x22report.com,,,,
+1046,Zenith News,zenith.news,,,,
+1048,21st Century Wire,21stcenturywire.com,,,,
+1050,369 News,369news.net,,,,
+1051,A news24,a-news24.com,,,,
+1052,Experience Awareness (AbcBusinessNews.com),abcbusinessnews.com,,,,
+1053,American College of Pediatricians,acpeds.org,,,,
+1056,Architects & Engineers for 9/11 Truth,ae911truth.org,,,,
+1057,American Intelligence Media,aim4truth.org,,,,
+1058,Al Bawaba,albawaba.com,,,,
+1059,Higgins News Network,alexanderhiggins.com,,,,
+1060,Alliance for Advanced Health,allianceforadvancedhealth.com,,,,
+1061,Alt-Market,alt-market.com,,,,
+1062,China Global Television Network,america.cgtn.com,,,,
+1063,American Action News,americanactionnews.com,,,,
+1064,American Digital News,americandigitalnews.com,,,,
+1065,American Patriot Daily,americanpatriotdaily.com,,,,
+1066,Analyzing America,analyzingamerica.org,,,,
+1067,Ancient Code,ancient-code.com,,,,
+1068,Ancient Origins,ancient-origins.net,,,,
+1069,Alliance for Natural Health (ANH-USA),anh-usa.org,,,,
+1070,Anonymous News,anonews.co,,,,
+1071,Apost.com,apost.com,,,,
+1072,Arab News,arabnews.com,,,,
+1073,Archaeology World,archaeology-world.com,,,,
+1074,Asia-Pacific Research,asia-pacificresearch.com,,,,
+1075,Auburn Times,auburntimes.com,,,,
+1076,Autism Speaks,autismspeaks.org,,,,
+1077,American Web Media,awm.com,,,,
+1078,Baldwin Times,baldwintimes.com,,,,
+1079,Basnews Agency,basnews.com,,,,
+1080,BDNews24,bdnews24.com,,,,
+1081,Be Best Website,bebest.website,,,,
+1082,Behold Israel,beholdisrael.org,,,,
+1083,BenjaminFulford,benjaminfulford.typepad.com,,,,
+1084,Biologos Foundation,biologos.org,,,,
+1085,Bipartisan Report,bipartisanreport.com,,,,
+1086,Blacklisted News,blacklistednews.com,,,,
+1087,BlackNews.com,blacknews.com,,,,
+1088,Bongino.com,bongino.com,,,,
+1089,Bossip,bossip.com,,,,
+1091,Breakingnews247.net,breakingnews247.net,,,,
+1092,Prank your friends!,breakingnews365.net,,,,
+1093,Breaking Wide,breakingwide.com,,,,
+1095,BrightSide,brightside.me,,,,
+1096,The Buffalo Chronicle,buffalochronicle.com,,,,
+1098,BVA News,bvanews.com,,,,
+1099,Council for American-Islamic Relations (CAIR),cair.com,,,,
+1100,Caixin Global,caixinglobal.com,,,,
+1101,Caldron Pool,caldronpool.com,,,,
+1102,CannaSOS.com,cannasos.com,,,,
+1103,Catholic Online,catholic.org,,,,
+1104,Center for Security Policy,centerforsecuritypolicy.org,,,,
+1105,Cerno (Cernovich.com),cernovich.com,,,,
+1109,Create A Prank,channel24news.com,,,,
+1111,Channel 33 News,channel33news.com,,,,
+1113,Create A Prank,channel40news.com,,,,
+1115,Channel 46 News,channel46news.com,,,,
+1116,Charisma News,charismanews.com,,,,
+1117,China Daily,chinadaily.com.cn,,,,
+1118,Church Militant,churchmilitant.com,,,,
+1119,Climate Depot,climatedepot.com,,,,
+1120,Faça sua piada de maneira rápida!,cnoticias.net,,,,
+1121,Conscious Life News,consciouslifenews.com,,,,
+1122,Conservapedia,conservapedia.com,,,,
+1123,Conservative Angle,conservativeangle.com,,,,
+1124,Conservative Firing Line,conservativefiringline.com,,,,
+1125,Conservative Frontline,conservativefrontline.com,,,,
+1126,The Conservative Papers,conservativepapers.com,,,,
+1127,CounterPsyOps,counterpsyops.com,,,,
+1128,Daily Vine,daily-vine.com,,,,
+1129,Daily Grail,dailygrail.com,,,,
+1130,Daily Political Newswire,dailypoliticalnewswire.com,,,,
+1131,Daily Star UK,dailystar.co.uk,,,,
+1132,Daily World Update,dailyworldupdate.us,,,,
+1133,David Wolfe,davidwolfe.com,,,,
+1134,DC Blue Dot,dcbluedot.com,,,,
+1135,DEBKAfile,debka.com,,,,
+1136,Decatur Times,decaturtimes.com,,,,
+1137,Deep Left Field,deepleftfield.info,,,,
+1138,Democratic Underground,democraticunderground.com,,,,
+1139,Democratic National Committee,democrats.org,,,,
+1140,Disobedient Media,disobedientmedia.com,,,,
+1141,Dnyuz,dnyuz.com,,,,
+1142,DoctorOz.com (Dr. Oz),doctoroz.com,,,,
+1143,Dr. Axe,draxe.com,,,,
+1144,East Central Alabama News,ecalabamanews.com,,,,
+1145,The Economic Times,economictimes.indiatimes.com,,,,
+1146,Educate Inspire Change,educateinspirechange.org,,,,
+1147,Eluxe Magazine,eluxemagazine.com,,,,
+1148,Emirates 24/7,emirates247.com,,,,
+1151,Fais une blague et piège tous tes amis.,en-bref.fr,,,,
+1153,Mehr News Agency,en.mehrnews.com,,,,
+1154,The Majalla,eng.majalla.com,,,,
+1155,Al Arabiya,english.alarabiya.net,,,,
+1156,CCTV International,english.cctv.com,,,,
+1157,The European Union Times,eutimes.net,,,,
+1158,Everyday for Gun Safety,everytown.org,,,,
+1159,Environmental Working Group (EWG),ewg.org,,,,
+1160,Extraordinary News,extraordinaryinfo.com,,,,
+1161,Fabiosa,fabiosa.com,,,,
+1162,Fact Checking Turkey,factcheckingturkey.com,,,,
+1163,Facts Wanted,factswanted.com,,,,
+1164,Faithit,faithit.com,,,,
+1165,FaithPanda,faithpanda.com,,,,
+1166,Family Survival Headlines,familysurvivalheadlines.com,,,,
+1167,Femalista,femalista.com,,,,
+1168,Filming Cops,filmingcops.com,,,,
+1169,First Post,firstpost.com,,,,
+1170,Flag & Cross,flagandcross.com,,,,
+1171,Food Babe,foodbabe.com,,,,
+1172,Food Matters,foodmatters.com,,,,
+1173,FoxNews-Us,foxnews-us.com,,,,
+1174,Freedomain Radio,freedomainradio.com,,,,
+1175,Freedom News Report,freedomnewsreport.com,,,,
+1176,FI Article Marketing,freeinfomedia.com,,,,
+1177,Free Republic,freerepublic.com,,,,
+1178,The Free Telegraph,freetelegraph.com,,,,
+1179,Free Wood Post,freewoodpost.com,,,,
+1180,Friends of Science,friendsofscience.org,,,,
+1181,MoveOn,front.moveon.org,,,,
+1182,Gadsden Today,gadsdentoday.com,,,,
+1183,Gatestone Institute,gatestoneinstitute.org,,,,
+1184,Covert Geopolitics,geopolitics.co,,,,
+1185,Ghost.Report,ghost.report,,,,
+1186,Global Healing Center,globalhealingcenter.com,,,,
+1187,Global Times,globaltimes.cn,,,,
+1188,GMWatch,gmwatch.org,,,,
+1189,Godfather Politics,godfatherpolitics.com,,,,
+1190,Republican National Committee,gop.com,,,,
+1191,House Republican Conference,gop.gov,,,,
+1192,Gossip Mill Mzansi,gossipmillsa.com,,,,
+1193,The Greanville Post,greanvillepost.com,,,,
+1194,Greenpeace,greenpeace.org,,,,
+1195,Grunge.com,grunge.com,,,,
+1196,Gucmakale,gucmakale.com,,,,
+1197,Gulf News,gulfnews.com,,,,
+1198,Hal Turner Radio Show,halturnerradioshow.com,,,,
+1199,Hard News,hardnews.network,,,,
+1200,Head Topics,headtopics.com,,,,
+1201,Healthy and Natural World,healthyandnaturalworld.com,,,,
+1202,Heightpost,heightpost.com,,,,
+1203,Hello Christian,hellochristian.com,,,,
+1204,Herb,herb.co,,,,
+1205,Higher Perspective,higherperspectives.com,,,,
+1206,National Rifle Association,home.nra.org,,,,
+1208,Huntsville Leader,huntsvilleleader.com,,,,
+1210,IFL Science,iflscience.com,,,,
+1211,iHarare,iharare.com,,,,
+1212,I Heart Intelligence,iheartintelligence.com,,,,
+1213,"I, Hypocrite",ihypocrite.net,,,,
+1214,Illegal Alien Crime Report,illegalaliencrimereport.com,,,,
+1215,Independent Minute,independentminute.com,,,,
+1216,Independent Science News,independentsciencenews.org,,,,
+1217,Independent Sentinel,independentsentinel.com,,,,
+1218,Indiatimes,indiatimes.com,,,,
+1219,Information Clearing House,informationclearinghouse.info,,,,
+1220,InfoScum,infoscum.com,,,,
+1221,Inner Strength Zone -,innerstrength.zone,,,,
+1222,Investment Watch Blog,investmentwatchblog.com,,,,
+1223,"Israel, Islam and End Times",israelislamandendtimes.com,,,,
+1224,Jefferson Reporter,jeffersonreporter.com,,,,
+1225,Climate Etc,judithcurry.com,,,,
+1226,Just the Facts,justthefacts.org,,,,
+1229,Ladies of Liberty,ladiesofliberty.net,,,,
+1230,Lancaster Courier,lancastercourier.com,,,,
+1231,ACN Latitudes,latitudes.org,,,,
+1232,Law Enforcement Today,lawenforcementtoday.com,,,,
+1233,Citizens for Legitimate Government,legitgov.org,,,,
+1234,Lew Rockwell,lewrockwell.com,,,,
+1235,Liberty Talk.fm,libertytalk.fm,,,,
+1236,Live Action,liveaction.org,,,,
+1237,Livestrong.com,livestrong.com,,,,
+1238,Living Whole,livingwhole.org,,,,
+1239,Lucianne.com,lucianne.com,,,,
+1240,MAGA Daily Report,magadailyreport.com,,,,
+1241,MagaPill,magapill.com,,,,
+1243,Media Roots,mediaroots.org,,,,
+1244,Medusa Magazine,medusamagazine.com,,,,
+1245,Middle East Media Research Institute (Memri),memri.org,,,,
+1247,Metric Media,metricmedianews.com,,,,
+1248,Middle American Democrat,middleamericandemocrat.com,,,,
+1249,MindBodyGreen,mindbodygreen.com,,,,
+1250,Mobile Courant,mobilecourant.com,,,,
+1251,Modern Alternative Mama,modernalternativemama.com,,,,
+1252,Morning Herald,morning-herald.com,,,,
+1253,MSMLies.com,msmlies.com,,,,
+1254,Erfinde deine eigenen Witz,nachrichten365.com,,,,
+1255,The Nation Pakistan,nation.com.pk,,,,
+1257,Natural Cures,naturalcures.com,,,,
+1258,Natural Health 365,naturalhealth365.com,,,,
+1259,Naturally Savvy,naturallysavvy.com,,,,
+1260,Natural Society,naturalsociety.com,,,,
+1261,NE Alabama Courant,nealabamanews.com,,,,
+1262,"Raconte l'actualité du jour,",net-infosnews.com,,,,
+1264,NewsAmmo,newsammo.com,,,,
+1266,News Blaze,newsblaze.com,,,,
+1267,News Break,newsbreak.com,,,,
+1268,Newsbud,newsbud.com,,,,
+1272,Newsmax,newsmax.com,,,,
+1274,Next News Network,nextnewsnetwork.com,,,,
+1275,Nordic Monitor,nordicmonitor.com,,,,
+1276,North Birmingham Times,northbirminghamtimes.com,,,,
+1277,"Crear una broma, una noticia",noticias-frescas.com,,,,
+1278,Crea La Tua Barzelletta Rapidamente!,notizzia.com,,,,
+1279,Nutritionfacts.org,nutritionfacts.org,,,,
+1280,Odisha Latest News Today,odishatv.in,,,,
+1281,OffGuardian,off-guardian.org,,,,
+1284,Organic Facts,organicfacts.net,,,,
+1285,Overpasses for America,overpassesforamerica.com,,,,
+1286,Patriot Crier,patriotcrier.com,,,,
+1287,Patriot Journal,patriotjournal.org,,,,
+1288,Perez Hilton,perezhilton.com,,,,
+1289,PETA,peta.org,,,,
+1290,PJ Media,pjmedia.com,,,,
+1291,Popular Technology,populartechnology.net,,,,
+1292,Post Card News,postcard.news,,,,
+1293,The Postillion,postillon.com,,,,
+1294,Press for Truth,pressfortruth.ca,,,,
+1296,Prevention Magazine,prevention.com,,,,
+1297,Project Veritas,projectveritas.com,,,,
+1298,Prop or Not,propornot.com,,,,
+1299,Proto Thema,protothema.gr,,,,
+1300,Quillette,quillette.com,,,,
+1301,Raw Conservative Opinions,rawconservativeopinions.com,,,,
+1303,Real Raw News,realrawnews.com,,,,
+1304,RearFront,rearfront.com,,,,
+1305,Red Blue Divide,redbluedivide.com,,,,
+1306,Red Orbit,redorbit.com,,,,
+1307,Redoubt News,redoubtnews.com,,,,
+1308,RedState,redstate.com,,,,
+1309,Institute for Responsible Technology,responsibletechnology.org,,,,
+1310,Revolver.News,revolver.news,,,,
+1311,Right Smarts,rightsmarts.com,,,,
+1312,River Region Times,riverregiontimes.com,,,,
+1314,Rudaw,rudaw.net,,,,
+1315,Ruptly,ruptly.tv,,,,
+1316,Ruth Institute,ruthinstitute.org,,,,
+1317,The Science Times,sciencetimes.com,,,,
+1318,Science Vibe,sciencevibe.com,,,,
+1320,Secure America Now,secureamericanow.org,,,,
+1321,Shoals Today,shoalstoday.com,,,,
+1322,SHTFplan.com,shtfplan.com,,,,
+1324,"Sohu,com",sohu.com,,,,
+1325,South Africa Today,southafricatoday.net,,,,
+1326,Space.News,space.news,,,,
+1327,Stranger than Fiction News,stfnreport.com,,,,
+1330,The Stream,stream.org,,,,
+1332,SunDayPost,sundaypost.org,,,,
+1334,Swiss Policy Research,swprs.org,,,,
+1335,Tasnim News Agency,tasnimnews.com,,,,
+1336,TASS Russian News Agency,tass.com,,,,
+1337,TB Daily News,tbdailynews.com,,,,
+1338,Tea Party Patriots,teapartypatriots.org,,,,
+1339,Tech Startups,techstartups.com,,,,
+1340,The Tehran Times,tehrantimes.com,,,,
+1342,The Anti-Media,theantimedia.com,,,,
+1343,The Beltway Report,thebeltwayreport.com,,,,
+1345,TheBL,thebl.com,,,,
+1346,The Blacksphere,theblacksphere.net,,,,
+1347,The Conservative Brief,theconservativebrief.com,,,,
+1348,The Epoch Times,theepochtimes.com,,,,
+1349,The Fake News Generator,thefakenewsgenerator.com,,,,
+1350,The Hearty Soul,theheartysoul.com,,,,
+1351,thelastlineofdefense.online,thelastlineofdefense.online,,,,
+1353,The Liberty Daily,thelibertydaily.com,,,,
+1354,The National (UAE),thenational.ae,,,,
+1356,The National Pulse,thenationalpulse.com,,,,
+1360,The Proud Liberal,theproudliberal.org,,,,
+1362,There is News,thereisnews.com,,,,
+1363,Rooster Magazine,therooster.com,,,,
+1364,The Smokers Club,thesmokersclub.com,,,,
+1365,The SoleXchange,thesolexchange.com,,,,
+1366,The Trumpet,thetrumpet.com,,,,
+1368,Homeopathy Journal,thieme.de,,,,
+1369,Thought Catalog,thoughtcatalog.com,,,,
+1370,Glücksspiel Deutschland,timesofcambodia.com,,,,
+1372,Todd Starnes,toddstarnes.com,,,,
+1373,TooFab,toofab.com,,,,
+1374,Raconte l'actualité du jour,toutelinfo.fr,,,,
+1375,Townhall,townhall.com,,,,
+1376,TPL News,tplnews.com,,,,
+1377,Trending Politics,trendingpolitics.com,,,,
+1378,Trump Train News,trumptrainnews.com,,,,
+1380,U OK Hun?,uokhun.uk,,,,
+1385,USSA News,ussanews.com,,,,
+1386,Vets for Trump,veteransfordonaldtrump.com,,,,
+1387,Washington Times,washingtontimes.com,,,,
+1390,We The People Daily,wethepeopledaily.com,,,,
+1391,What Really Happened,whatreallyhappened.com,,,,
+1392,What's the Harm,whatstheharm.net,,,,
+1393,WikiIslam,wikiislam.net,,,,
+1394,Wikispooks,wikispooks.com,,,,
+1395,Wittheshit,wittheshit.com,,,,
+1396,Woke Sloth,wokesloth.com,,,,
+1397,Women are Human,womenarehuman.com,,,,
+1399,WorldStarHipHop,worldstarhiphop.com,,,,
+1401,Christian Broadcasting Network,www1.cbn.com,,,,
+1402,YourContent,yc.news,,,,
