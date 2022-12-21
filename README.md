@@ -1,7 +1,6 @@
 # misDiffusion
 
-Code and relevant files for the project Chen-Shuo Hong. 2022. "The Diffusion of Online Vaccine Misinformation:  Fake News Publishers and the Paradox of Embeddedness"
-Code written by Chen-Shuo Hong (chenshuohong@umass.edu)
+Code and relevant files for "The Diffusion of Online Vaccine Misinformation:  Fake News Publishers and the Paradox of Embeddedness"
 
 List of files
 
