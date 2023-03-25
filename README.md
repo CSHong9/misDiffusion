@@ -1,6 +1,6 @@
 # misDiffusion
 
-Code and relevant files for "The Diffusion of Online Vaccine Misinformation:  Fake News Publishers and the Paradox of Embeddedness"
+Code and relevant files for "The Diffusion of Online Vaccine Misinformation: Fake News Publishers, Resource Access, and the Paradox of Network Embeddedness"
 
 List of files
 
